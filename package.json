@@ -1,0 +1,31 @@
+{
+  "name": "yes-2-food-no-to-kitchen",
+  "version": "1.0.0",
+  "description": "React mini project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebuffdev/codebuffdevyes-2-food-no-to-kitchen.git"
+  },
+  "keywords": [
+    "namaste",
+    "react"
+  ],
+  "author": "codebuffdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebuffdev/codebuffdevyes-2-food-no-to-kitchen/issues"
+  },
+  "homepage": "https://github.com/codebuffdev/codebuffdevyes-2-food-no-to-kitchen#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
